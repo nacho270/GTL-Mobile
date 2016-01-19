@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dromero\Personal\Desarrollo\Android\Sarlem\GTLMobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="C:\Users\Dromero\Personal\Desarrollo\Android\Sarlem\GTLMobile\build\intermediates\pre-dexed\debug\classes-ac4a79312f8c89d530784f0d11d0fe65c123fce0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dromero\Personal\Desarrollo\Android\Sarlem\GTLMobile\libs\android-support-v7-recyclerview.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95c892d244f49414bbdf92c2235a32ea06bc68aa">
+        <dex dex="C:\Users\Dromero\Personal\Desarrollo\Android\Sarlem\GTLMobile\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview-229589fdb783aef2408cc6404d22141d72752228.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dromero\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Dromero\Personal\Desarrollo\Android\Sarlem\GTLMobile\build\intermediates\pre-dexed\debug\gson-2.3.1-03e2781f0b5b7c186a85bee849a84f7dc7ecdc0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dromero\Personal\Desarrollo\Android\Sarlem\GTLMobile\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="C:\Users\Dromero\Personal\Desarrollo\Android\Sarlem\GTLMobile\build\intermediates\pre-dexed\debug\classes-cc620d0df89b3e04f02b69ab96d437b1a016b3d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dromero\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.0\support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="C:\Users\Dromero\Personal\Desarrollo\Android\Sarlem\GTLMobile\build\intermediates\pre-dexed\debug\support-annotations-22.1.0-ec717253457c82f41e689472d5cbcd48fdd87ee6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dromero\Personal\Desarrollo\Android\Sarlem\GTLMobile\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\jars\libs\internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="C:\Users\Dromero\Personal\Desarrollo\Android\Sarlem\GTLMobile\build\intermediates\pre-dexed\debug\internal_impl-22.1.0-784252fb201acbb7c823ae5fd47d016ad909ae58.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dromero\Personal\Desarrollo\Android\Sarlem\GTLMobile\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66fd9d179eb79b64c99e555dead32e725792217a">
+        <dex dex="C:\Users\Dromero\Personal\Desarrollo\Android\Sarlem\GTLMobile\build\intermediates\pre-dexed\debug\classes-7ff9832620179f200034ca202e65c3c766aaa0f7.jar" />
+    </item>
+
+</items>
