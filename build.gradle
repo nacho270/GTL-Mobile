@@ -15,7 +15,7 @@ android {
 
     defaultConfig {
         applicationId "ar.com.textillevel.mobile"
-        minSdkVersion 9
+        minSdkVersion 14
         targetSdkVersion 21
     }
 
