@@ -1,0 +1,6 @@
+gradle.properties
+local.properties
+.idea/
+build/outputs
+build/intermediates
+build/generated
